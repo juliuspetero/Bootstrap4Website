@@ -1,0 +1,14 @@
+{
+  "name": "boot4website",
+  "version": "1.0.0",
+  "description": "Using bootstrap and sass",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Julius",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
